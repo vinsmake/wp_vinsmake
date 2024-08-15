@@ -1,15 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php 
+    get_header();
+?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <?php wp_head(); ?>
-    <title>Document</title>
-</head>
+<h1>Index</h1>
 
-<body>
-    <h1>Vinsmake</h1>
-</body>
-
-</html>
+<?php 
+    get_footer();
+?>
